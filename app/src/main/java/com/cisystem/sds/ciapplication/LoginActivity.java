@@ -37,6 +37,7 @@ import static android.Manifest.permission.READ_CONTACTS;
 /**
  * A login screen that offers login via email/password.
  */
+//Jenkins CI Test
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
 
     /**
